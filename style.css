@@ -35,3 +35,7 @@ img {
     color: white; /*Set the color of all links inside Menu to white*/
     text-decoration: none; /*Removed the underline from the links in the menu*/
 }
+
+.player {
+    margin-top: 15px; /*Moved the player a bit down*/
+}
